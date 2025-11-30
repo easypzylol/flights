@@ -1,0 +1,26 @@
+# Environment files
+.env
+*.env
+
+# Log files
+*.log
+users.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
