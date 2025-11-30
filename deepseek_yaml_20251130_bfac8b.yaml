@@ -9,4 +9,4 @@ services:
       - key: BOT_TOKEN
         value: "YOUR_BOT_TOKEN_HERE"
       - key: CHANNEL_LINK
-        value: "https://t.me/YourFlightsChannel"
+        value: "https://t.me/ubereats_us"
