@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Get from environment variables - NEVER hardcode tokens!
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
-CHANNEL_LINK = os.environ.get('CHANNEL_LINK', 'https://t.me/YourFlightsChannel')
+CHANNEL_LINK = os.environ.get('CHANNEL_LINK', 'https://t.me/ubereats_us')
 LOG_FILE = "users.txt"
 
 # Check if token exists
